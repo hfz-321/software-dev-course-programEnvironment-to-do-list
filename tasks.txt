@@ -1,5 +1,5 @@
 # To-Do List
-● Complete Git lesson
-● Review HTML basics
-● Start JavaScript exercises
+● Complete Git lessonn
+● Review HTML basicss
+● Start JavaScript exercisess
 
